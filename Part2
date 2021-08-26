@@ -1,0 +1,170 @@
+Tisy HQ Basement and Platforms
+
+		<group name="Land_Tisy_HQBUILD" lootmax="2">
+			<usage name="SortedBuild" />
+			<dispatch>
+				<proxy type="TruckBattery" pos="4.280602 -6.409180 -2.866384" rpy="0.0 0.0 0.0" /><!--radio room-->
+				<proxy type="MetalPlate" pos="3.320292 -5.509180 -4.124384" rpy="90.0 90.0 0.0" /><!---->
+				<proxy type="MetalPlate" pos="2.620292 -5.509180 -4.124384" rpy="90.0 90.0 0.0" /><!---->
+				<proxy type="Trashcan" pos="4.195144 -7.106346 0.823989" rpy="0.0 0.0 0.0" /><!--radio room-->
+				<proxy type="Seachest" pos="4.158164 -7.106346 2.915183" rpy="0.0 90.0 0.0" /><!---->
+				<proxy type="Woodencrate" pos="4.382174 -7.106346 4.474553" rpy="0.0 90.0 0.0" /><!---->
+				<proxy type="Woodencrate" pos="4.382174 -6.956346 4.474553" rpy="0.0 90.0 0.0" /><!---->
+				<proxy type="Woodencrate" pos="4.382174 -6.816346 4.474553" rpy="0.0 90.0 0.0" /><!---->
+				<proxy type="Woodencrate" pos="4.382174 -6.696346 4.474553" rpy="0.0 90.0 0.0" /><!---->
+			</dispatch>
+		</group>
+		<group name="Land_Tisy_HQ_WALLguns" lootmax="14">
+		<usage name="SortedMilitary" />
+			<dispatch>
+				<proxy type="Saiga" pos="5.361941 -5.447902 3.253758" rpy="0.0 180.0 0.0" /><!--airlock-->
+				<proxy type="AKM" pos="-3.402909 -5.530094 -8.916305" rpy="0.0 0.0 0.0" /><!--first room left-->
+				<proxy type="M16A2" pos="-3.402910 -5.535820 -7.145307" rpy="0.0 0.0 0.0" /><!--first room middle-->
+				<proxy type="VSS" pos="-3.402910 -5.464775 -5.545825" rpy="0.0 0.0 0.0" /><!--first room right-->
+				<proxy type="AliceBag_Black" pos="4.801881 -5.741907 -3.112824" rpy="0.0 0.0 0.0" /><!--radio room above desk-->
+				<proxy type="AmmoBox" pos="4.305246 -6.259180 -3.445807" rpy="0.0 0.0 0.0" /><!--radio room above desk-->
+				
+				<proxy type="AKM_TESTBED" pos="4.801881 -5.532748 -0.645393" rpy="0.0 0.0 0.0" /><!---->
+				<proxy type="ASVAL" pos="4.801881 -5.133707 -0.645393" rpy="0.0 0.0 0.0" /><!--above PA-->
+				
+				<proxy type="AK101_Black" pos="-3.402909 -5.414682 0.399652" rpy="0.0 0.0 0.0" /><!--vault left wall first gun-->
+				<proxy type="AK74_Black" pos="-3.402909 -5.365831 2.713579" rpy="0.0 0.0 0.0" /><!--vault left wall MIDDLE gun-->
+				<proxy type="M4A1_Green" pos="-3.402909 -5.269175 4.755910" rpy="0.0 0.0 0.0" /><!--vault left last gun-->
+				<proxy type="FAL" pos="-1.758384 -5.210813 7.370031" rpy="0.0 90.0 0.0" /><!--vault far wall left-->
+				<proxy type="B95_Green" pos="-0.276275 -5.191776 7.370030" rpy="0.0 90.0 0.0" /><!--FAR WALL-->
+				<proxy type="SVD" pos="1.576823 -5.198935 7.370030" rpy="0.0 -90.0 0.0" /><!--vault far wall middle-->
+			</dispatch>
+		</group>
+		<group name="Land_Tisy_RadarPlatform_TopBuild" lootmax="28">
+			<usage name="SortedBuild" />
+				<dispatch>
+					
+					<proxy type="WoodenLog" pos="7.979326 9.111111 2.929779" rpy="90.0 0.0 0.0" /><!--9.101409-->
+					<proxy type="WoodenLog" pos="7.979326 9.111111 2.929779" rpy="90.0 0.0 0.0" /><!---->
+					<proxy type="WoodenLog" pos="7.979326 7.999999 2.929779" rpy="90.0 0.0 0.0" /><!---->
+					<proxy type="WoodenLog" pos="7.979326 7.999999 2.929779" rpy="90.0 0.0 0.0" /><!---->
+					
+					<proxy type="WoodenLog" pos="12.766016 9.111111 4.179041" rpy="90.0 0.0 0.0" /><!---->
+					<proxy type="WoodenLog" pos="12.766016 9.111111 4.179041" rpy="90.0 0.0 0.0" /><!---->
+					<proxy type="WoodenLog" pos="12.766016 7.999999 4.179041" rpy="90.0 0.0 0.0" /><!---->
+					<proxy type="WoodenLog" pos="12.766016 7.999999 4.179041" rpy="90.0 0.0 0.0" /><!---->
+					
+					<proxy type="WoodenLog" pos="15.127818 9.111111 2.795632" rpy="90.0 0.0 0.0" /><!---->
+					<proxy type="WoodenLog" pos="15.127818 9.111111 2.795632" rpy="90.0 0.0 0.0" /><!---->
+					<proxy type="WoodenLog" pos="15.127818 7.999999 2.795632" rpy="90.0 0.0 0.0" /><!---->
+					<proxy type="WoodenLog" pos="15.127818 7.999999 2.795632" rpy="90.0 0.0 0.0" /><!---->
+					
+					<proxy type="WoodenLog" pos="9.961046 9.111111 4.140667" rpy="90.0 0.0 0.0" /><!---->
+					<proxy type="WoodenLog" pos="9.961046 9.111111 4.140667" rpy="90.0 0.0 0.0" /><!---->
+					<proxy type="WoodenLog" pos="9.961046 7.999999 4.140667" rpy="90.0 0.0 0.0" /><!---->
+					<proxy type="WoodenLog" pos="9.961046 7.999999 4.140667" rpy="90.0 0.0 0.0" /><!---->
+					
+					<proxy type="WoodenLog" pos="13.395165 9.111111 -5.585998" rpy="90.0 0.0 0.0" /><!---->
+					<proxy type="WoodenLog" pos="13.395165 9.111111 -5.585998" rpy="90.0 0.0 0.0" /><!---->
+					<proxy type="WoodenLog" pos="13.395165 7.999999 -5.585998" rpy="90.0 0.0 0.0" /><!---->
+					<proxy type="WoodenLog" pos="13.395165 7.999999 -5.585998" rpy="90.0 0.0 0.0" /><!---->
+					
+					<proxy type="WoodenLog" pos="15.864256 9.111111 -3.563443" rpy="90.0 0.0 0.0" /><!---->
+					<proxy type="WoodenLog" pos="15.864256 9.111111 -3.563443" rpy="90.0 0.0 0.0" /><!---->
+					<proxy type="WoodenLog" pos="15.864256 7.999999 -3.563443" rpy="90.0 0.0 0.0" /><!---->
+					<proxy type="WoodenLog" pos="15.864256 7.999999 -3.563443" rpy="90.0 0.0 0.0" /><!---->
+					
+					<proxy type="WoodenLog" pos="10.555157 9.111111 -5.902977" rpy="90.0 0.0 0.0" /><!---->
+					<proxy type="WoodenLog" pos="10.555157 9.111111 -5.902977" rpy="90.0 0.0 0.0" /><!---->
+					<proxy type="WoodenLog" pos="10.555157 7.999999 -5.902977" rpy="90.0 0.0 0.0" /><!---->
+					<proxy type="WoodenLog" pos="10.555157 7.999999 -5.902977" rpy="90.0 0.0 0.0" /><!---->
+					
+					<proxy type="WoodenLog" pos="8.500895 9.111111 -4.982268" rpy="90.0 0.0 0.0" /><!---->
+					<proxy type="WoodenLog" pos="8.500895 9.111111 -4.982268" rpy="90.0 0.0 0.0" /><!---->
+					<proxy type="WoodenLog" pos="8.500895 7.999999 -4.982268" rpy="90.0 0.0 0.0" /><!---->
+					<proxy type="WoodenLog" pos="8.500895 7.999999 -4.982268" rpy="90.0 0.0 0.0" /><!---->
+					
+					<proxy type="WoodAxe" pos="16.455458 9.121629 -1.839060" rpy="0.0 90.0 0.0" /><!--middle curve 12 o'clock-->
+					<proxy type="Shovel" pos="16.455458 9.121629 -1.798107" rpy="-90.0 -90.0 0.0" /><!--middle curve 3 o'clock --->
+					<proxy type="SledgeHammer" pos="16.455458 9.121629 -1.798107" rpy="180.0 -90.0 0.0" /><!--middle curve 6 o'clock-->
+					<proxy type="Pickaxe" pos="16.455458 9.121629 -1.839060" rpy="90.0 -90.0 0.0" /><!--middle curve 9 o'clock-->
+					<proxy type="AliceBag_Camo" pos="16.453648 7.284576 -1.798107" rpy="0.0 0.0 0.0" /><!--middle curve bottom-->
+					<proxy type="AliceBag_Camo" pos="16.453648 7.284576 -1.798107" rpy="0.0 0.0 0.0" /><!--middle curve bottom-->
+					<proxy type="AliceBag_Camo" pos="16.453648 7.284576 -1.798107" rpy="0.0 0.0 0.0" /><!--middle curve bottom-->
+					
+					
+					<proxy type="WoodenCrate" pos="16.368364 7.900956 -4.120461" rpy="0.0 -46.5 0.0" /><!---->
+					<proxy type="WoodenCrate" pos="16.368364 7.652941 -4.120461" rpy="0.0 -46.5 0.0" /><!---->
+					<proxy type="WoodenCrate" pos="16.368364 7.400941 -4.120461" rpy="0.0 -46.5 0.0" /><!---->
+				</dispatch>
+				<dispatch>
+					<proxy type="MetalPlate" pos="17.219721 8.671597 3.961871" rpy="90.0 90.0 0.0" /><!---->
+					<proxy type="MetalPlate" pos="18.354621 8.671597 3.961871" rpy="90.0 90.0 0.0" /><!---->
+					<proxy type="MetalPlate" pos="19.101301 8.626880 2.658343" rpy="90.0 0.0 0.0" /><!---->
+					<proxy type="MetalPlate" pos="19.109300 8.759824 0.965640" rpy="90.0 0.0 0.0" /><!---->
+					<proxy type="MetalPlate" pos="19.103707 8.695844 -3.515752" rpy="90.0 0.0 0.0" /><!---->
+					<proxy type="MetalPlate" pos="19.104422 8.676852 -5.943430" rpy="90.0 0.0 0.0" /><!---->
+					<proxy type="MetalPlate" pos="19.106084 8.583903 -7.697487" rpy="90.0 0.0 0.0" /><!---->
+					<proxy type="MetalPlate" pos="18.387135 8.650554 -8.824123" rpy="90.0 90.0 0.0" /><!---->
+					<proxy type="MetalPlate" pos="16.708521 8.677537 -8.792284" rpy="90.0 90.0 0.0" /><!---->
+				</dispatch>
+		</group>
+		<group name="Land_Tisy_RadarPlatform_TopSORT" lootmax="28">
+			<usage name="SortedMilitary" />
+				<dispatch>
+					<proxy type="Mosin9130_Black" pos="18.973808 9.150492 -0.997792" rpy="0.0 180.0 0.0" /><!---->
+					<proxy type="Winchester70_Black" pos="18.973808 8.600492 -1.047792" rpy="0.0 0.0 0.0" /><!---->
+					<proxy type="AmmoBox" pos="18.951799 7.598622 -2.646320" rpy="0.0 0.0 0.0" /><!--7.498622 too low-->
+					<proxy type="Seachest" pos="18.713133 7.466414 -8.258231" rpy="0.0 90.0 0.0" /><!---->
+					
+					<proxy type="FAL" pos="19.004824 8.847108 1.743507" rpy="0.0 0.0 0.0" /><!---->
+					<proxy type="DryBag_Black" pos="19.011099 8.529486 0.287783" rpy="0.0 0.0 0.0" /><!---->
+					
+					<proxy type="ASVAL" pos="17.465364 8.913056 -2.757801" rpy="0.0 90.0 0.0" /><!---->
+					<proxy type="DryBag_Blue" pos="17.478054 8.292941 -2.687801" rpy="0.0 90.0 0.0" /><!---->
+					
+					<proxy type="PlateCarrierVest" pos="19.011144 8.803056 -4.139341" rpy="0.0 0.0 90.0" /><!--0.0 0.0 90.0-->
+					<proxy type="PlateCarrierVest" pos="19.011144 8.822941 -2.329164" rpy="0.0 0.0 90.0" /><!----><!--180.0 0.0 90.0 otherway around-->
+					
+					<proxy type="AK74_Black" pos="15.607471 8.994506 -6.569030" rpy="0.0 0.0 0.0" /><!--entrance right-->
+					<proxy type="DryBag_Yellow" pos="15.607471 8.844506 -5.430438" rpy="0.0 180.0 0.0" /><!---->
+					
+					<proxy type="AKM" pos="15.607471 8.301867 -6.594174" rpy="0.0 0.0 0.0" /><!--entrance right-->
+					<proxy type="DryBag_Orange" pos="15.607471 8.131867 -5.430438" rpy="0.0 180.0 0.0" /><!---->
+					
+					<proxy type="M4A1" pos="19.011097 9.129548 -6.753273" rpy="0.0 0.0 0.0" /><!---->
+					<proxy type="DryBag_Green" pos="19.011099 8.251867 -6.835436" rpy="0.0 0.0 0.0" /><!---->
+					
+					<proxy type="SVD" pos="19.011099 9.129548 -4.752173" rpy="0.0 0.0 0.0" /><!---->
+					<proxy type="DryBag_Red" pos="19.011099 8.201867 -4.983339" rpy="0.0 0.0 0.0" /><!---->
+					
+					<proxy type="M4A1_Green" pos="17.566715 8.994506 -8.737249" rpy="0.0 90.0 0.0" /><!---->
+					<proxy type="AssaultBag_Green" pos="17.599867 8.301867 -8.736423" rpy="0.0 90.0 0.0" /><!---->
+					
+					<proxy type="AKM_TESTBED" pos="16.048172 8.994506 -8.725973" rpy="0.0 -90.0 0.0" /><!--entrance window-->
+					<proxy type="AssaultBag_Black" pos="15.978432 8.301867 -8.725973" rpy="0.0 90.0 0.0" /><!---->
+					
+				</dispatch>
+		</group>
+		<group name="Land_Tisy_RadarPlatform_TopBlue" lootmax="28">
+			<usage name="SortedMilitary" />
+				<dispatch>
+					<proxy type="MountainBag_Blue" pos="-19.121599 8.395555 -4.007841" rpy="0.0 0.0 0.0" /><!---->
+					<proxy type="MountainBag_Blue" pos="-19.095612 8.395555 -4.957053" rpy="0.0 0.0 0.0" /><!---->
+					<proxy type="MountainBag_Blue" pos="-19.025200 8.395555 3.859590" rpy="0.0 0.0 0.0" /><!---->
+					<proxy type="MountainBag_Blue" pos="-19.046000 8.395555 4.675070" rpy="0.0 0.0 0.0" /><!---->
+				</dispatch>
+		</group>
+		<group name="Land_Tisy_RadarPlatform_TopGREEN" lootmax="28">
+			<usage name="SortedMilitary" />
+				<dispatch>
+					<proxy type="MountainBag_Green" pos="-19.121599 8.395555 -4.007841" rpy="0.0 0.0 0.0" /><!---->
+					<proxy type="MountainBag_Green" pos="-19.095612 8.395555 -4.957053" rpy="0.0 0.0 0.0" /><!---->
+					<proxy type="MountainBag_Green" pos="-19.025200 8.395555 3.859590" rpy="0.0 0.0 0.0" /><!---->
+					<proxy type="MountainBag_Green" pos="-19.046000 8.395555 4.675070" rpy="0.0 0.0 0.0" /><!---->
+				</dispatch>
+		</group>
+		<group name="Land_Tisy_RadarPlatform_TopRed" lootmax="28">
+			<usage name="SortedMilitary" />
+				<dispatch>
+					<proxy type="MountainBag_Red" pos="-19.121599 8.395555 -4.007841" rpy="0.0 0.0 0.0" /><!---->
+					<proxy type="MountainBag_Red" pos="-19.095612 8.395555 -4.957053" rpy="0.0 0.0 0.0" /><!---->
+					<proxy type="MountainBag_Red" pos="-19.025200 8.395555 3.859590" rpy="0.0 0.0 0.0" /><!---->
+					<proxy type="MountainBag_Red" pos="-19.046000 8.395555 4.675070" rpy="0.0 0.0 0.0" /><!---->
+				</dispatch>
+		</group>
